@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af2b1a57bbe5e1043826c2ebc5a5e2f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  grid: {fileID: 0}
+  grid: {fileID: 581336197}
   hud: {fileID: 62547954}
   score1Star: 15000
   score2Star: 18000
@@ -639,7 +639,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2253740283139878256, guid: c95549e1c61ff214cb242ef2bc258e90, type: 3}
       propertyPath: m_Name
-      value: Canvas
+      value: Game UI Canvas
       objectReference: {fileID: 0}
     - target: {fileID: 2253740283139878268, guid: c95549e1c61ff214cb242ef2bc258e90, type: 3}
       propertyPath: m_Pivot.x
